@@ -18,7 +18,14 @@ namespace BibliotecaWeb.Pages
             var lista = new List<Livro>
             {
                 new Livro { Numero = 1, Titulo = "Algoritmos e Estruturas de Dados", Autor = "N. Wirth", Ano = 1976, Descricao = "Fundamentos da programação." },
-                new Livro { Numero = 2, Titulo = "Clean Code", Autor = "Robert C. Martin", Ano = 2008, Descricao = "Código limpo e sustentável." },
+                new Livro {
+    Numero = 2,
+    Titulo = "Clean Code",
+    Autor = "Robert C. Martin",
+    Ano = 2008,
+    Descricao = "Código limpo e sustentável.",
+    CapaUrl = "/images/clean-code.jpg"
+},
                 new Livro { Numero = 3, Titulo = "Design Patterns", Autor = "Erich Gamma et al.", Ano = 1994, Descricao = "Padrões de projeto." },
                 new Livro { Numero = 4, Titulo = "Inteligência Artificial: Uma Abordagem Moderna", Autor = "Russell & Norvig", Ano = 2010, Descricao = "Livro referência em IA." },
                 new Livro { Numero = 5, Titulo = "Introdução à Programação em C#", Autor = "John Sharp", Ano = 2015, Descricao = "Guia prático para aprender C#." }

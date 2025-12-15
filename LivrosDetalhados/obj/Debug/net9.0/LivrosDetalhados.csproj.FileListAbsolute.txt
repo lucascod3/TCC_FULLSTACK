@@ -12,3 +12,4 @@ C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\refint\Liv
 C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.pdb
 C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.genruntimeconfig.cache
 C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\ref\LivrosDetalhados.dll
+C:\Users\lukin\OneDrive\Desktop\TCC\LivrosDetalhados\obj\Debug\net9.0\LivrosDetalhados.sourcelink.json

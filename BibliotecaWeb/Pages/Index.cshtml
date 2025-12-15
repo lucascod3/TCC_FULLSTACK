@@ -35,7 +35,21 @@
             {
                 <tr>
                     <td>@livro.Numero</td>
-                    <td>@livro.Titulo</td>
+                    <td>
+    @livro.Titulo
+
+    <a href="@livro.CapaUrl"
+       target="_blank"
+       style="margin-left:10px;
+              padding:4px 8px;
+              font-size:12px;
+              background:#007bff;
+              color:white;
+              text-decoration:none;
+              border-radius:4px;">
+        Ver capa
+    </a>
+</td>
                     <td>@livro.Autor</td>
                     <td>@livro.Ano</td>
                     <td>@livro.Descricao</td>

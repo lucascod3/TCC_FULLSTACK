@@ -7,5 +7,6 @@ namespace BibliotecaWeb.Models
         public string Autor { get; set; }
         public int Ano { get; set; }
         public string Descricao { get; set; }
+        public string CapaUrl { get; set; }
     }
 }

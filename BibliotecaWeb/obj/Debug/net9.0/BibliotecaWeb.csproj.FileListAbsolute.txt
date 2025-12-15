@@ -94,3 +94,4 @@ C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\refint\Biblio
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\BibliotecaWeb.pdb
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\BibliotecaWeb.genruntimeconfig.cache
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\ref\BibliotecaWeb.dll
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\BibliotecaWeb.sourcelink.json
