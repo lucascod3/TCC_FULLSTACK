@@ -17,7 +17,7 @@ namespace BibliotecaWeb.Pages
         {
             var lista = new List<Livro>
             {
-                new Livro { Numero = 1, Titulo = "Algoritmos e Estruturas de Dados", Autor = "N. Wirth", Ano = 1976, Descricao = "Fundamentos da programação." },
+                new Livro { Numero = 1, Titulo = "Algoritmos e Estruturas de Dados", Autor = "N. Wirth", Ano = 1976, Descricao = "Fundamentos da programação.", CapaUrl = "/images/algoritmos_e_estruturas_de_dados.jpg" },
                 new Livro {
     Numero = 2,
     Titulo = "Clean Code",
@@ -26,9 +26,9 @@ namespace BibliotecaWeb.Pages
     Descricao = "Código limpo e sustentável.",
     CapaUrl = "/images/clean-code.jpg"
 },
-                new Livro { Numero = 3, Titulo = "Design Patterns", Autor = "Erich Gamma et al.", Ano = 1994, Descricao = "Padrões de projeto." },
-                new Livro { Numero = 4, Titulo = "Inteligência Artificial: Uma Abordagem Moderna", Autor = "Russell & Norvig", Ano = 2010, Descricao = "Livro referência em IA." },
-                new Livro { Numero = 5, Titulo = "Introdução à Programação em C#", Autor = "John Sharp", Ano = 2015, Descricao = "Guia prático para aprender C#." }
+                new Livro { Numero = 3, Titulo = "Design Patterns", Autor = "Erich Gamma et al.", Ano = 1994, Descricao = "Padrões de projeto.", CapaUrl = "/images/design_patterns.jpg" },
+                new Livro { Numero = 4, Titulo = "Inteligência Artificial: Uma Abordagem Moderna", Autor = "Russell & Norvig", Ano = 2010, Descricao = "Livro referência em IA.", CapaUrl = "/images/Inteligência_Artificial_Uma_Abordagem_Moderna.jpg" },
+                new Livro { Numero = 5, Titulo = "Microsoft Visual C# Step by Step (Eighth Edition)", Autor = "John Sharp", Ano = 2015, Descricao = "Guia prático para aprender C#.", CapaUrl = "images/Microsoft_Visual.jpg"},
             };
 
             // Se o usuário digitou algo, filtra
