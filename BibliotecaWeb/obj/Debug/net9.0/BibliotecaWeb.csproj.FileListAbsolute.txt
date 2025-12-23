@@ -21,7 +21,13 @@ C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\rjsmcshtml.ds
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\scopedcss\bundle\BibliotecaWeb.styles.css
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\scopedcss\projectbundle\BibliotecaWeb.bundle.scp.css
+<<<<<<< HEAD
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\oud306kpaj-61n19gt1b8.gz
+=======
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\gqa2h4haxz-b9sayid5wm.gz
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\oud306kpaj-61n19gt1b8.gz
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\cxxzpi4xhu-xtxxf3hu2r.gz
+>>>>>>> 59808fc6f31c4c9b8ce48e273e0f87c84d26f09d
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\2nkeu07m6n-bqjiyaj88i.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\308fiqsviq-c2jlpeoesf.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\j938w2d0cb-erw9l3u2r3.gz
@@ -68,14 +74,27 @@ C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\0z
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\oqf5wtfcll-0j3bgjxly4.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\hham4lvsry-47otxtyo56.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\iv7p7csuti-4v8eqarkd7.gz
+<<<<<<< HEAD
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\hnpbpn80vj-lzl9nlhx6b.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\dqhr6efn4n-ag7o75518u.gz
+=======
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\xskpqk0uo9-356vix0kms.gz
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\wd9phnm89l-83jwlth58m.gz
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\60vw23vbhn-mrlpezrjn3.gz
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\hnpbpn80vj-lzl9nlhx6b.gz
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\dqhr6efn4n-ag7o75518u.gz
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\8ulgnyjjno-x0q3zqp4vz.gz
+>>>>>>> 59808fc6f31c4c9b8ce48e273e0f87c84d26f09d
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\slwxbkdfms-0i3buxo5is.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\rcabl19mby-o1o13a6vjx.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\xgwqpevcl4-ttgo8qnofa.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\efejdpd7mq-2z0ns9nrw6.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\tvqfnu2rnv-muycvpuwrr.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\dpg7wl8jm2-87fc7y1x7t.gz
+<<<<<<< HEAD
+=======
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\qzrbcvpazu-mlv21k5csn.gz
+>>>>>>> 59808fc6f31c4c9b8ce48e273e0f87c84d26f09d
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\3ukszlyq7g-g64dk59ngk.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\kg405m04jn-g64dk59ngk.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\staticwebassets.build.json
@@ -87,6 +106,7 @@ C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\refint\Biblio
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\BibliotecaWeb.pdb
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\BibliotecaWeb.genruntimeconfig.cache
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\ref\BibliotecaWeb.dll
+<<<<<<< HEAD
 C:\Users\lukin\OneDrive\Desktop\TCC_FULLSTACK-master\BibliotecaWeb\bin\Debug\net9.0\appsettings.Development.json
 C:\Users\lukin\OneDrive\Desktop\TCC_FULLSTACK-master\BibliotecaWeb\bin\Debug\net9.0\appsettings.json
 C:\Users\lukin\OneDrive\Desktop\TCC_FULLSTACK-master\BibliotecaWeb\bin\Debug\net9.0\BibliotecaWeb.staticwebassets.runtime.json
@@ -190,3 +210,6 @@ C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\wd
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\60vw23vbhn-qlccset4i1.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\8ulgnyjjno-xzw0cte36n.gz
 C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\compressed\qzrbcvpazu-jfsiqqwiad.gz
+=======
+C:\Users\lukin\OneDrive\Desktop\TCC\BibliotecaWeb\obj\Debug\net9.0\BibliotecaWeb.sourcelink.json
+>>>>>>> 59808fc6f31c4c9b8ce48e273e0f87c84d26f09d
